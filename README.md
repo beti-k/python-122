@@ -5,6 +5,7 @@
 
 
 
+
 ## Homeworks
 
 1. Assignment 1   
@@ -20,3 +21,5 @@
         - Create variables to store your name and favorite color
         - Print these variables
         - Use string addition to combine them into a sentence
+
+2. [Homework 2: Python Basics](./docs/homework_2.md)
